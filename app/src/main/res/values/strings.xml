@@ -1,0 +1,68 @@
+<resources>
+
+    // Main
+    <string name="app_name">Teman Tuli</string>
+    <string name="asl_alpha">Teman Recognition</string>
+    <string name="sign_language_ml">BSD Assist</string>
+    <string name="asl_assistant">Bisindo Asistant</string>
+
+    // Recognition
+    <string name="recognition">Start</string>
+
+    // Training
+    <string name="training">Train</string>
+
+    // Speech-To-Text
+    <string name="speech_to_text">Speech-To-Text</string>
+
+    // Learning
+    <string name="learning">Bisindo</string>
+    <string name="about">About</string>
+    <string name="learning_desc">Click Any Letter and View How To Sign It</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">signup</string>
+    <string-array name="letters">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string name="aboutme">Selamat datang di Aplikasi Teman Tuli! Kami dengan bangga mempersembahkan solusi inovatif yang dirancang khusus untuk memudahkan komunikasi bagi komunitas tuna rungu atau teman-teman tuli. Aplikasi ini adalah teman setia dalam menyampaikan pesan dan memahami bahasa isyarat. Dengan kombinasi fitur-fitur canggih dan antarmuka yang intuitif, kami bertujuan untuk mengatasi hambatan komunikasi dan mewujudkan konektivitas tanpa batas.</string>
+
+    <string name="aboutme1">Penerjemah Bahasa Isyarat ke Teks</string>
+    <string name="aboutme2">Kamus Isyarat Berbasis Gambar (Bisindo - Bahasa Isyarat Indonesia)</string>
+    <string name="aboutme3">Pelatihan Bahasa Isyarat</string>
+    <string name="aboutme4">Tampilan yang Ramah Pengguna</string>
+
+        <string name="desc1">Aplikasi kami memungkinkan pengguna untuk mengonversi bahasa isyarat menjadi teks yang dapat dibaca oleh siapa saja. Cukup tunjukkan gerakan tangan atau isyarat kepada kamera ponsel Anda, dan aplikasi akan secara akurat menerjemahkannya ke dalam teks. Ini membuka pintu bagi orang-orang yang tidak akrab dengan bahasa isyarat untuk tetap berkomunikasi dengan teman-teman tuli.</string>
+        <string name="desc2">Aplikasi kami menyediakan kamus isyarat berbasis gambar yang kaya dengan berbagai kata dan frasa dalam bahasa isyarat Indonesia (Bisindo). Kamus ini memberikan definisi yang jelas dan diilustrasikan dengan gambar agar pengguna dapat dengan mudah memahami makna setiap isyarat.</string>
+        <string name="desc3">Untuk mereka yang ingin belajar bahasa isyarat, kami menyediakan fitur pelatihan interaktif. Langkah demi langkah, Anda akan dipandu dalam memahami dan menggunakan berbagai isyarat dalam komunikasi sehari-hari.</string>
+        <string name="desc4">Desain antarmuka aplikasi kami dibuat agar mudah digunakan oleh semua pengguna, tanpa memandang tingkat pengetahuan teknologi sebelumnya. Kami berkomitmen untuk menjadikan pengalaman pengguna sejelas dan seefisien mungkin.</string>
+
+</resources>
+
